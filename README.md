@@ -70,6 +70,7 @@ S_z =
 \left(\frac{\partial w}{\partial z}\right)^2
 }.
 $$
+
 ---
 
 ## Virtual RHI-LIDAR
